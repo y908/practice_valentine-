@@ -1,0 +1,17 @@
+body {
+    background-color: #400000;
+}
+
+h2 {
+	font-family: Garamond;
+	color: #ffffff;
+	font-size: 200px;
+	text-align: center;
+}
+
+p {
+	font-family: Garamond;
+	color: #ffe9e9;
+	font-size: 100px;
+	text-align: center;
+}
